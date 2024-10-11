@@ -1,5 +1,6 @@
 public class UString {
-    public static Stirng formatString(){
-        return "";
+    public static Stirng formatString(String text){
+        
+        return text;
     }
 }
